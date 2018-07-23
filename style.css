@@ -1,0 +1,29 @@
+body{
+ 
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+    button{
+    background-color: blue;
+    border: none;
+    margin: 2px;
+    width: 70px;
+}
+#preto{
+    background-color: black;
+    border: none;
+    color: #fff;
+}
+#vermelho{
+    background-color: red;
+    border: none;
+}
+
+#aguia{
+    transition: .3s;
+    
+}
